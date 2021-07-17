@@ -1,4 +1,4 @@
-# REAP-Package-Automatization-multivariate-regression
+# REAP-Package-Automatization-Multivariate-Regression
 The Mathematica based REAP Neutrino Package is automatized using multivariate regression.
 REAP (Renormalization group Evolution of Angles and Phases) is a Mathematica based package for solving the renormalization group equations (RGE) of the quantities relevant for neutrino masses (https://reapmpt.hepforge.org). It includes several models, one of which is the MSSM0N model. This model runs the RGs from the unification scale down to the electroweak scale using the MSSM. In the electroweak scale the neutrino mixing parameters can be predicted based on the free parameters set at the unification scale, for example in the framework of the HSMU model (Phys. Rev. D 69, 053007 (2004), hep-ph/0301234).
 
